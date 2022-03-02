@@ -1,0 +1,4 @@
+#Python Program to find the ASCII value of a character
+
+c = input("enter character ")
+print("ASCII VALUE OF {0} is", c, ord(c))
